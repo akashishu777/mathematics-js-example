@@ -1,0 +1,14 @@
+{
+  "name": "mathematics-js-example",
+  "version": "1.0.0",
+  "description": "simple math function library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mathjs"
+  ],
+  "author": "Akash vishwakarma",
+  "license": "MIT"
+}
