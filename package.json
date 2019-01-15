@@ -10,5 +10,10 @@
     "mathjs"
   ],
   "author": "Akash vishwakarma",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akashishu777/mathematics-js-example.git"
+  },
+  "homepage": "https://github.com/akashishu777/mathematics-js-example"
 }
