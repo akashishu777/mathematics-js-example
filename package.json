@@ -4,7 +4,7 @@
   "description": "simple math function library",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "keywords": [
     "mathjs"
@@ -15,5 +15,9 @@
     "type": "git",
     "url": "https://github.com/akashishu777/mathematics-js-example.git"
   },
-  "homepage": "https://github.com/akashishu777/mathematics-js-example"
+  "homepage": "https://github.com/akashishu777/mathematics-js-example",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
