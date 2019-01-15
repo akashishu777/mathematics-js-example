@@ -4,6 +4,7 @@
   "description": "simple math function library",
   "main": "index.js",
   "scripts": {
+    "build": "node index.js",
     "test": "jest"
   },
   "keywords": [
