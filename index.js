@@ -1,3 +1,19 @@
-exports.printMsg = function() {
-  console.log("This is a message from the demo package");
+exports.add = function(a,b) {
+  return(a+b);
+}
+
+exports.substract = function(a,b) {
+  return(a-b);
+}
+
+exports.multiply = function(a,b) {
+  return(a*b);
+}
+
+exports.divide = function(a,b) {
+  return(a/b);
+}
+
+exports.sqr = function(a) {
+  return(a*a);
 }
